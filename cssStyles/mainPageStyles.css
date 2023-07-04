@@ -1,0 +1,21 @@
+#headerSt {
+    background-image: url('/img/startPageBackground.png'); 
+    background-size: contain;  
+    background-repeat: no-repeat; 
+    background-position: center center;
+}
+.whiteText{
+    color: white;
+    text-decoration: none;
+}
+.icon {
+    display: block;
+    margin: 0 auto;
+    max-width: 10%;
+    width: 100%;
+    display: inline-block;
+}
+.child-div {
+    width: 70%; 
+    margin: 0 auto; 
+}
