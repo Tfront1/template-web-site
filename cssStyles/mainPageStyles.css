@@ -19,3 +19,15 @@
     width: 70%; 
     margin: 0 auto; 
 }
+.image-button {
+    background-image: url('/img/tryForFreeButtn.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 100px;
+    height: 40px;
+    opacity: 1;
+    cursor: pointer;  
+  }
