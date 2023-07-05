@@ -1,5 +1,5 @@
 #headerSt {
-    background-image: url('/img/startPageBackground.png'); 
+    background-image: url('../img/startPageBackground.png'); 
     background-size: contain;  
     background-repeat: no-repeat; 
     background-position: center center;
@@ -20,7 +20,7 @@
     margin: 0 auto; 
 }
 .image-button {
-    background-image: url('/img/tryForFreeButtn.png');
+    background-image: url('../img/tryForFreeButtn.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
