@@ -1,5 +1,5 @@
 #headerSt {
-    background-image: url('../img/startPageBackground.png'); 
+    background-image: url('../img/start-page-background.png'); 
     background-size: contain;  
     background-repeat:no-repeat; 
     background-position: center center;
@@ -21,7 +21,7 @@
 }
 .image-button {
     display: inline-block;
-    background-image: url('../img/tryForFreeButtn.png');
+    background-image: url('../img/try-for-free-buttn.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
